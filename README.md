@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blguweb
 - 👀 I’m interested in HCI
-- 🌱 I’m currently learning PCB and statistics
+- 🌱 I’m currently learning relative knowledge of HCI .
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
